@@ -28,7 +28,6 @@ public class ChatApp extends Application {
 	private TextArea textArea;
 	Socket socket;
     PrintWriter writer;
-    BufferedReader reader;
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
