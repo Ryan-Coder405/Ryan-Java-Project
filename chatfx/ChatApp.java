@@ -33,7 +33,7 @@ public class ChatApp extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		
-		primaryStage.setTitle("Losing my mind");
+		primaryStage.setTitle("Java Chat App");
 		Group root = new Group();
 		
 		textArea = new TextArea();
